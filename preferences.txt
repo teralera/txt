@@ -1,0 +1,6 @@
+        favorite movie:Breakfast at Tiffany`s,
+        favorite TV series:The Marvelous Mrs Maisel,
+        favorite dish:Pasta Carbonara,
+        favorite time of the year:summer,
+        the counrty i want to go:USA
+
