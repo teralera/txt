@@ -1,0 +1,5 @@
+        name:Valeria,
+        surname:Terekhova,
+        age:26,
+        pets:0,
+        salory:80000
